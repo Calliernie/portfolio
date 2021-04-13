@@ -5,7 +5,7 @@
       style="height: 200px; opacity: 1"
       gradient="to top right, rgba(100,115,201,.33), rgba(25,32,72,.9)"
       dark
-      src="../assets/kraken.jpg"
+      src="../assets/5.jpg"
     >
       <v-overlay value="true" absolute>
         <v-row align="center" justify="center">
@@ -34,102 +34,7 @@
           </v-card>
         </v-card>
       </v-col>
-
-      <!-- <v-col cols="12" xs="12" sm="6" md="4" lg="3">
-        <v-card color="transparent" class="pa-2">
-          <v-card>
-            <v-img src="../assets/background.png"></v-img>
-          </v-card>
-        </v-card>
-      </v-col>
-
-      <v-col cols="12" xs="12" sm="6" md="4" lg="3">
-        <v-card color="transparent" class="pa-2">
-          <v-card>
-            <v-img src="../assets/background.png"></v-img>
-          </v-card>
-        </v-card>
-      </v-col>
-
-      <v-col cols="12" xs="12" sm="6" md="4" lg="3">
-        <v-card color="transparent" class="pa-2">
-          <v-card>
-            <v-img class="img" src="../assets/diff.jpg"></v-img>
-          </v-card>
-        </v-card>
-      </v-col> -->
     </v-row>
-
-    <!-- first block -->
-    <!-- <v-row class="pb-2 px-8">
-      <v-col cols="12" xs="12" sm="6" md="4" lg="3">
-        <v-card color="transparent" class="pa-2">
-          <v-card>
-            <v-img class="img" src="../assets/wayne.jpg"></v-img>
-          </v-card>
-        </v-card>
-      </v-col>
-
-      <v-col cols="12" xs="12" sm="6" md="4" lg="3">
-        <v-card color="transparent" class="pa-2">
-          <v-card>
-            <v-img src="../assets/background.png"></v-img>
-          </v-card>
-        </v-card>
-      </v-col>
-
-      <v-col cols="12" xs="12" sm="6" md="4" lg="3">
-        <v-card color="transparent" class="pa-2">
-          <v-card>
-            <v-img src="../assets/background.png"></v-img>
-          </v-card>
-        </v-card>
-      </v-col>
-
-      <v-col cols="12" xs="12" sm="6" md="4" lg="3">
-        <v-card color="transparent" class="pa-2">
-          <v-card class="">
-            <v-img class="img" src="../assets/diff.jpg"></v-img>
-          </v-card>
-        </v-card>
-      </v-col>
-    </v-row> -->
-
-    <!-- first block -->
-    <!-- <v-row class="pb-2 px-8">
-      <v-col cols="12" xs="12" sm="6" md="4" lg="3">
-        <v-card color="transparent" class="pa-2">
-          <v-card>
-            <v-img class="img" src="../assets/wayne.jpg"></v-img>
-          </v-card>
-        </v-card>
-      </v-col> -->
-
-    <!-- <v-col cols="12" xs="12" sm="6" md="4" lg="3">
-        <v-card color="transparent" class="pa-2">
-          <v-card>
-            <v-img src="../assets/background.png"></v-img>
-          </v-card>
-        </v-card>
-      </v-col> -->
-
-    <!-- <v-col cols="12" xs="12" sm="6" md="4" lg="3">
-        <v-card color="transparent" class="pa-2">
-          <v-card>
-            <v-img src="../assets/background.png"></v-img>
-          </v-card>
-        </v-card>
-      </v-col> -->
-
-    <!-- <v-col cols="12" xs="12" sm="6" md="4" lg="3">
-        <v-card color="transparent" class="pa-2">
-          <v-card class="">
-            <v-img class="img" src="../assets/diff.jpg"></v-img>
-          </v-card>
-        </v-card>
-      </v-col> -->
-    <!-- </v-row> -->
-    <!-- </div> -->
 
     <div class="bubbles">
       <img src="../assets/bubble.png" />

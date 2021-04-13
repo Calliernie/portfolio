@@ -9,8 +9,9 @@
 
     <v-spacer></v-spacer>
 
-    <v-btn text color="grey" router to="/gallery"> Gallery </v-btn>
-    <v-btn text color="grey" router to="/profile"> Profile </v-btn>
-    <v-btn text color="grey" router to="/blog"> Blog </v-btn>
+    <v-btn text color="grey" router to="/gallery" class="mx-1"> Gallery </v-btn>
+    <v-btn text color="grey" router to="/profile" class="mx-1"> Profile </v-btn>
+    <v-btn text color="grey" router to="/blog" class="mx-1"> Blog </v-btn>
+    <v-btn text color="grey" router to="/shop" class="mx-1"> Shop </v-btn>
   </v-app-bar>
 </template>

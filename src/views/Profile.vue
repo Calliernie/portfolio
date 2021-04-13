@@ -5,12 +5,12 @@
       style="height: 200px; opacity: 1"
       gradient="to top right, rgba(100,115,201,.33), rgba(25,32,72,.9)"
       dark
-      src="../assets/profile3.jpg"
+      src="../assets/6.jpg"
     >
       <v-overlay value="true" absolute>
         <v-row align="center" justify="center">
           <v-col class="text-center" cols="12">
-            <h1 class="display-1 font-weight-thin mb-4">Profile</h1>
+            <h1 class="display-1 font-weight-thin mb-4"><b>Profile</b></h1>
           </v-col>
         </v-row>
       </v-overlay>

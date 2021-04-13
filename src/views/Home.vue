@@ -10,34 +10,46 @@
 
     <!-- <div class="side-bar" v-show="side_nav"> -->
     <div class="social-links">
-      <v-btn fab small text class="my-2"
-        ><v-icon class="white--text">mdi-facebook</v-icon></v-btn
+      <a
+        target="_blank"
+        href="https://www.facebook.com"
+        style="text-decoration: none"
       >
-      <v-btn fab small text class="my-2"
-        ><v-icon class="white--text">mdi-twitter</v-icon></v-btn
-      >
-      <v-btn fab small text class="my-2"
-        ><v-icon class="white--text">mdi-linkedin</v-icon></v-btn
-      >
+        <v-btn fab small text class="my-2"
+          ><v-icon class="white--text">mdi-facebook</v-icon></v-btn
+        >
+      </a>
 
-      <a href="www.instagram.com" style="text-decoration: none">
+      <a
+        target="_blank"
+        href="https://www.twitter.com"
+        style="text-decoration: none"
+      >
+        <v-btn fab small text class="my-2"
+          ><v-icon class="white--text">mdi-twitter</v-icon></v-btn
+        >
+      </a>
+
+      <a
+        target="_blank"
+        href="https://www.linkedin.com"
+        style="text-decoration: none"
+      >
+        <v-btn fab small text class="my-2"
+          ><v-icon class="white--text">mdi-linkedin</v-icon></v-btn
+        >
+      </a>
+
+      <a
+        target="_blank"
+        href="https://www.instagram.com"
+        style="text-decoration: none"
+      >
         <v-btn fab small text class="my-2"
           ><v-icon class="white--text">mdi-instagram</v-icon></v-btn
         >
       </a>
-      <!-- <img src="../assets/fb.png" />
-      <br />
-      <img src="../assets/ig.png" />
-      <br />
-      <img src="../assets/tw.png" /> -->
     </div>
-
-    <div class="useful-links">
-      <img src="../assets/share.png" />
-      <br />
-      <img src="../assets/info.png" />
-    </div>
-    <!-- </div> -->
 
     <div class="bubbles">
       <img src="../assets/bubble.png" />
