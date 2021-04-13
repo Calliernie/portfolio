@@ -36,7 +36,7 @@
       </v-col>
     </v-row>
 
-    <div class="bubbles">
+    <!-- <div class="bubbles">
       <img src="../assets/bubble.png" />
       <img src="../assets/bubble.png" />
       <img src="../assets/bubble.png" />
@@ -44,7 +44,7 @@
       <img src="../assets/bubble.png" />
       <img src="../assets/bubble.png" />
       <img src="../assets/bubble.png" />
-    </div>
+    </div> -->
   </div>
 </template>
 
