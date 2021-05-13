@@ -10,14 +10,12 @@
       <v-overlay value="true" absolute>
         <v-row align="center" justify="center">
           <v-col class="text-center" cols="12">
-            <h1 class="display-1 font-weight-thin mb-4">Gallery</h1>
+            <h1 class="display-1 font-weight-thin mb-4"><b>Gallery</b></h1>
           </v-col>
         </v-row>
       </v-overlay>
     </v-parallax>
 
-    <!-- <div class="rightScroll"> -->
-    <!-- first block -->
     <v-row class="py-4 px-8">
       <v-col
         cols="12"
@@ -28,10 +26,17 @@
         v-for="image in images"
         :key="image.path"
       >
-        <v-card color="transparent" class="pa-2">
+        <!-- <v-card color="transparent" class="pa-2">
           <v-card>
             <v-img :src="image.path"></v-img>
           </v-card>
+        </v-card> -->
+
+        <v-card class="mx-auto my-2" max-width="">
+          <v-img
+            height="250"
+            src="https://cdn.vuetifyjs.com/images/cards/cooking.png"
+          ></v-img>
         </v-card>
       </v-col>
     </v-row>

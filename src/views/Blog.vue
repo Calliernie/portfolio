@@ -10,7 +10,7 @@
       <v-overlay value="true" absolute>
         <v-row align="center" justify="center">
           <v-col class="text-center" cols="12">
-            <h1 class="display-1 font-weight-thin mb-4">Blog</h1>
+            <h1 class="display-1 font-weight-thin mb-4"><b>Blog</b></h1>
           </v-col>
         </v-row>
       </v-overlay>
@@ -32,21 +32,12 @@
           </v-card>
         </v-card> -->
 
-        <v-card class="mx-auto my-2" max-width="374">
+        <v-card class="mx-auto my-2" max-width="">
           <v-img
             height="250"
             src="https://cdn.vuetifyjs.com/images/cards/cooking.png"
           ></v-img>
         </v-card>
-
-        <!-- <v-col cols="6"><p>GitHub</p></v-col>
-        <v-col cols="6" class="float-right"
-          ><p>
-            <a href="www.linkedin.com/in/ernest-amuzu">
-              www.github.com/calliernie</a
-            >
-          </p></v-col
-        > -->
 
         <span>30 minutes</span>
         <span class="float-right">SUPER EASY</span>

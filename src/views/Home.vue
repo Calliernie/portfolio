@@ -9,7 +9,7 @@
     </div>
 
     <!-- <div class="side-bar" v-show="side_nav"> -->
-    <div class="social-links">
+    <div class="social-links hidden-xs-only">
       <a
         target="_blank"
         href="https://www.facebook.com"
