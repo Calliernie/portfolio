@@ -445,94 +445,99 @@
             </p>
           </v-row>
 
-          <v-row>
-            <v-col cols="6"><p>Facebook</p></v-col>
-            <v-col cols="6" class="float-right"
-              ><p>
-                <a href="facebook.com/ernest.amuzu"
-                  >facebook.com/ernest.amuzu</a
-                >
-              </p></v-col
-            >
+          <v-row class="pr-3">
+            <p>GitHub</p>
+            <v-spacer></v-spacer>
+            <p>
+              <a href="www.linkedin.com/in/ernest-amuzu">
+                www.linkedin.com/in/ernest-amuzu
+              </a>
+            </p>
           </v-row>
 
           <v-row>
-            <v-col cols="6"><p>LinkedIn</p></v-col>
-            <v-col cols="6" class="float-right"
-              ><p>
-                <a href="www.linkedin.com/in/ernest-amuzu">
-                  www.linkedin.com/in/ernest-amuzu
-                </a>
-              </p></v-col
-            >
-          </v-row>
-
-          <v-row>
-            <v-col cols="6"><p>GitHub</p></v-col>
-            <v-col cols="6" class="float-right"
-              ><p>
-                <a href="www.linkedin.com/in/ernest-amuzu">
-                  www.github.com/calliernie</a
-                >
-              </p></v-col
-            >
-          </v-row>
-        </v-col>
-
-        <v-col cols="5" xs="5" sm="5" md="5">
-          <v-row class="pl-8">
             <h3 style="text-decoration: underline">Skills</h3>
           </v-row>
-          <v-row class="pl-5">
-            <v-col cols="12">
-              <p>Excellent written communication skills</p>
-              <p>Swift Decision Making</p>
-              <p>Self-motivation</p>
-              <p>Teamwork</p>
-              <p>Creativity</p>
-              <p>Ability to work under pressure</p>
-              <p>Great presentation skills</p>
-            </v-col>
+          <v-row class="pr-3">
+            <p>Excellent written communication skills</p>
+          </v-row>
+          <v-row class="pr-3">
+            <p>Swift Decision Making</p>
+          </v-row>
+          <v-row class="pr-3">
+            <p>Self-motivation</p>
+          </v-row>
+          <v-row class="pr-3">
+            <p>Teamwork</p>
+          </v-row>
+          <v-row class="pr-3">
+            <p>Creativity</p>
+          </v-row>
+          <v-row class="pr-3">
+            <p>Ability to work under pressure</p>
+          </v-row>
+          <v-row class="pr-3">
+            <p>Great presentation skills</p>
           </v-row>
 
-          <v-row class="pl-8">
+          <v-row>
             <h3 style="text-decoration: underline">Languages</h3>
           </v-row>
-          <v-row class="pl-5">
-            <v-col cols="12">
-              <p>Java (Intermediate)</p>
-              <p>SQL (Intermediate)</p>
-              <p>HTML (Proficient)</p>
-              <p>Javascript (Beginner)</p>
-              <p>CSS (Proficient)</p>
-              <p>PHP (Intermediate)</p>
-              <p>JUnit (Beginner)</p>
-              <p>Selenium (Beginner)</p>
-            </v-col>
+          <v-row class="pr-3">
+            <p>Java (Intermediate)</p>
+          </v-row>
+          <v-row class="pr-3">
+            <p>SQL (Intermediate)</p>
+          </v-row>
+          <v-row class="pr-3">
+            <p>HTML (Proficient)</p>
+          </v-row>
+          <v-row class="pr-3">
+            <p>Javascript (Beginner)</p>
+          </v-row>
+          <v-row class="pr-3">
+            <p>CSS (Proficient)</p>
+          </v-row>
+          <v-row class="pr-3">
+            <p>PHP (Intermediate)</p>
+          </v-row>
+          <v-row class="pr-3">
+            <p>JUnit (Beginner)</p>
+          </v-row>
+          <v-row class="pr-3">
+            <p>Selenium (Beginner)</p>
           </v-row>
 
-          <v-row class="pl-8">
+          <v-row>
             <h3 style="text-decoration: underline">Design Softwares</h3>
           </v-row>
-          <v-row class="pl-5">
-            <v-col cols="12">
-              <p>Photoshop (Proficient)</p>
-              <p>Rhinoceros 3D (Proficient)</p>
-              <p>After Effects (Intermediate)</p>
-              <p>Keyshot (Proficient)</p>
-              <p>Adobe XD (Proficient)</p>
-            </v-col>
+          <v-row class="pr-3">
+            <p>Photoshop (Proficient)</p>
+          </v-row>
+          <v-row class="pr-3">
+            <p>Rhinoceros 3D (Proficient)</p>
+          </v-row>
+          <v-row class="pr-3">
+            <p>After Effects (Intermediate)</p>
+          </v-row>
+          <v-row class="pr-3">
+            <p>Keyshot (Proficient)</p>
+          </v-row>
+          <v-row class="pr-3">
+            <p>Adobe XD (Proficient)</p>
           </v-row>
 
-          <v-row class="pl-8">
+          <v-row>
             <h3 style="text-decoration: underline">Interests</h3>
           </v-row>
-          <v-row class="pl-5">
-            <v-col cols="12">
-              <p>Reading</p>
-              <p>Digital Painting</p>
-              <p>Listening to music</p>
-            </v-col>
+          <v-row class="pr-3">
+            <p>Reading</p>
+          </v-row>
+          <v-row class="pr-3">
+            <p>Digital Painting</p>
+          </v-row>
+          <v-row class="pr-3">
+            <p>Listening to music</p>
           </v-row>
         </v-col>
       </v-row>
