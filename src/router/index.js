@@ -5,6 +5,7 @@ import Gallery from "../views/Gallery.vue";
 import Profile from "../views/Profile.vue";
 import Blog from "../views/Blog.vue";
 import Shop from "../views/Shop.vue";
+import Test from "../views/Test.vue";
 
 Vue.use(VueRouter);
 
@@ -13,6 +14,11 @@ const routes = [
     path: "/",
     name: "Home",
     component: Home,
+  },
+  {
+    path: "/test",
+    name: "Test",
+    component: Test,
   },
   {
     path: "/gallery",

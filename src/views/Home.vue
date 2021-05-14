@@ -2,7 +2,7 @@
   <div class="hero">
     <div class="content">
       <small class="yellow--text" style="font-size: 20px">Welcome to my</small>
-      <h1 class="white--text">Portfolio</h1>
+      <h1 class="white--text">Calliernie</h1>
       <v-btn text outlined class="outline white--text tourBtn" type="button"
         >Take a tour</v-btn
       >
